@@ -125,6 +125,7 @@ main {
 } */
 
 #table-task {
+  word-break: break-word;
   border: 1px solid #ccc;
   border-collapse: collapse;
   margin: 0;
@@ -146,6 +147,7 @@ main {
 
 #table-task th,
 #table-task td {
+  word-break: break-word;
   padding: .625em;
   text-align: center;
 }
