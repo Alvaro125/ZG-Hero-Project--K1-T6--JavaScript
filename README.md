@@ -11,7 +11,7 @@ Este é um projeto de uma aplicação TODO List em HTML, CSS e JavaScript, criad
 
 ## Como Usar
 
-1. Faça o download ou clone este repositório.
+1. Faça o download, clone este repositório ou [acesse aqui](https://alvaro125.github.io/ZG-Hero-Project--K1-T6--JavaScript/).
 2. Abra o arquivo `index.html` em um navegador web.
 3. Para adicionar uma nova tarefa, clique no botão de adicionar (`+`) e preencha o formulário.
 4. Para remover uma tarefa, clique no botão de remover (`🗑`) na linha da tarefa desejada.
