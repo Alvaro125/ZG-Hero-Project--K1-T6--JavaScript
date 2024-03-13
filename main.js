@@ -49,6 +49,7 @@ function createElmTask(task, key) {
 
   btn_remove.addEventListener("click", function () {
     tasks.splice(key, 1);
+    status_func=="criar"
     localStorage.setItem("data", JSON.stringify(tasks));
     reloadTable();
   });
